@@ -1,2 +1,2 @@
-# image-classification
-Simple image classification
+# Image Classification
+Simple image classification example
